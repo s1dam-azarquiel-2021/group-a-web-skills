@@ -1,0 +1,11 @@
+* Web Skills - Grupo A
+
+Integrantes del grupo:
+- Alberto Robles Gomez (@aru-hackZ)
+- Fonsiii Rodriguez Rodriguez (@fonsiii)
+- Juan Abad del Castillo Juan otra vez (@JuanAbad)
+- Israel Gomez (@a602364)
+- Hugo Calvo (@hugocb03)
+- Ivan Mulero (@Ivanmr25)
+
+Puedes ver la web [[https://s1dam-azarquiel-2021.github.io/group-a-web-skills/][aqui]].
